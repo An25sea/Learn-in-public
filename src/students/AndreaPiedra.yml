@@ -1,0 +1,16 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info: 
+        name: Andrea Piedra Ureña
+        age: 23
+        number: 64665092
+        email: andrea-cpu25@outlook.es
+        github: An25sea
+education: Bachiller Educacion Media y tecnico medio en Administracion Logistica y Distribucion 
+experiences: 5 años de experiencia en aduanas
+skills: 
+        Ingles C1
+        Servicio al cliente 
+        Microsoft Office 
+        
